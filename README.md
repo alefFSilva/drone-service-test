@@ -1,4 +1,5 @@
 
+
 # Drone Delivery Service
 
 A project developed for the Velozient mobile developer test.
@@ -9,8 +10,6 @@ The application shall received a input file with the drone squad and location de
 <img width="863" alt="image" src="https://user-images.githubusercontent.com/23003445/214309856-c0fc3033-2640-4474-b05d-1c50798b1214.png">
 <img width="863" alt="image" src="https://user-images.githubusercontent.com/23003445/214309907-3852aa47-4400-45c7-9321-1cb20a032839.png">
 <img width="863" alt="image" src="https://user-images.githubusercontent.com/23003445/214310107-c3bc443d-a3ce-4668-b83f-55c2793e7f3b.png">
-
-
 
 
 
@@ -37,7 +36,7 @@ And after the current drone capacity is over, I select the next one sorted by ca
 
 ## Technical Dependencies and Libraries
 
-I developed this application using the VS Code as IDE, Flutter 3.3.10, Dart 2.18 on MacOS Ventura 13.1.
+I developed this application using the [VS Code as IDE](https://code.visualstudio.com/download), [Flutter 3.3.10, Dart 2.18](https://docs.flutter.dev/development/tools/sdk/releases) on MacOS Ventura 13.1.
 To help with some UI tasks, I also used the packages [file_picker](https://pub.dev/packages/file_picker)  and the [flutter_bloc](https://pub.dev/packages/flutter_bloc).
 
 
