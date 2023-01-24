@@ -53,7 +53,11 @@ To help with some UI tasks, I also used the packages [file_picker](https://pub.d
 - Click on "Create some trips"
 
 
+## Input and Outputs samples
 
+
+[Input.txt](https://github.com/alefFSilva/drone-service-test/files/10490505/Input.txt)
+[Output.txt](https://github.com/alefFSilva/drone-service-test/files/10490506/Output.txt)
 
 
 
