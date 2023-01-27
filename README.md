@@ -30,7 +30,7 @@ About the business solution my approch steps were:
 
 I thought it was a good start to get the drone with more capacity, the location with   more weight to delivery and try to match them.
 After the most heavy location been alocate on a trip, I'll analyze if the current drone still having capacity remaining.
-If not, I start to look for a location that can fit the remaining space.
+If so, I start to look for a location that can fit the remaining space.
 And after the current drone capacity is over, I select the next one sorted by capacity and apply the algorithm again using the recursive method.
 
 
