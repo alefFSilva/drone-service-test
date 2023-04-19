@@ -4,7 +4,7 @@
 
 A project developed for the Velozient mobile developer position.
 The goal of this application is to support a drone delivery  by managing each drone capacity and location to delivery order weight.
-The application shall received a input file with the drone squad and location details, process it and create an output file with the drone squad trips.
+The application shall receive an input file with the drone squad and location details, process it and create an output file with the drone squad trips.
 
 <img width="863" alt="image" src="https://user-images.githubusercontent.com/23003445/214309724-23a0c956-8dc0-4b48-b15c-e6f0f3099fee.png">
 <img width="863" alt="image" src="https://user-images.githubusercontent.com/23003445/214309856-c0fc3033-2640-4474-b05d-1c50798b1214.png">
