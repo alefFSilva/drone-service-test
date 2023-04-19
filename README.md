@@ -2,7 +2,7 @@
 
 # Drone Delivery Service
 
-A project developed for the Velozient mobile developer test.
+A project developed for the Velozient mobile developer position.
 The goal of this application is to support a drone delivery  by managing each drone capacity and location to delivery order weight.
 The application shall received a input file with the drone squad and location details, process it and create an output file with the drone squad trips.
 
