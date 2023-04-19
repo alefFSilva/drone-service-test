@@ -22,8 +22,8 @@ My steps to prepare my self were:
 - Read, analyze and take some notes about the challenge summary 
 - Plan the data structure based on the summary
 - Take some note about the statements like: 
-		- Drones should make the fewer number of trips
-		- Software shall accept a file with the name of each drone, maximum weight and deliverie's location.
+	- Drones should make the fewer number of trips
+	- Software shall accept a file with the name of each drone, maximum weight and deliverie's location.
 - I also draw a [structure strategy at Miro](https://miro.com/app/board/uXjVPvNM68o=/?share_link_id=947866242231) 
 
 About the business solution my approch steps were:
